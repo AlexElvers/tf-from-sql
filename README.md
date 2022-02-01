@@ -25,3 +25,9 @@ Show data:
 ```bash
 python -m tf_from_sql show-data
 ```
+
+Train and predict:
+
+```bash
+python -m tf_from_sql train-and-predict
+```
